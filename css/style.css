@@ -3,3 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Stili di base */
+body {
+    font-family: 'Montserrat', 'Helvetica Neue', sans-serif;
+    background-color: #f8f8f8;
+}
+
+header h1 {
+    color: #ff9614;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Nerko One', cursive;
+    font-weight: 400;
+}
+
+.title-info {
+    display: none;
+}
+
+main {
+    padding: 15px;
+    background-color: #f6f5f3;
+}
+
+.recipe-title h2 {
+    font-size: 24px;
+    text-align: left;
+}
